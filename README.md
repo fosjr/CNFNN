@@ -1,4 +1,4 @@
-# CNFNN
+# Cascade Neo-Fuzzy Neural Network
 An attempt to implement a cascade neo-fuzzy neural network.
 Using the created NN on historical data of the Dow Jones index.
 
